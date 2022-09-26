@@ -16,3 +16,6 @@ This repository contains my Deep Learning projects around Vision, NLP and Deep M
  - [Transformer_Machine Learning](https://github.com/farzaneh-hatami/DeepLearning/tree/main/Machine_Translation)
  - [tBERT](https://github.com/farzaneh-hatami/DeepLearning/tree/main/tBERT)
  - [Relation Extraction](https://github.com/farzaneh-hatami/DeepLearning/tree/main/Relation_Exraction)
+ 
+ ## Deep Metric Learning:
+ - p[Triplet Loss and Center Loss](https://github.com/farzaneh-hatami/DeepLearning/tree/main/Deep_Metric_Learning)
