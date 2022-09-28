@@ -17,6 +17,6 @@ Due to the small amount of data, augmentation methods have also been used to rea
 ## Results
 A sample of result:
 
-<img src="imgs/pic-2.png" data-canonical-src="imgs/pic-2.png" width="400" />
+<img src="img/pic-2.png" data-canonical-src="img/pic-2.png" width="400" />
 
 
