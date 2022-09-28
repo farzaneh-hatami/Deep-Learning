@@ -21,7 +21,7 @@ We compare loss per trial for:
   - He weight initialization
   - STep decay learning rate adaption
  
-###Tasks:
+### Tasks:
 #### Regression
 The regression task predicts age of each face image in dataset. The Implemented Network achoeve a MSE of 346 after training.
 
