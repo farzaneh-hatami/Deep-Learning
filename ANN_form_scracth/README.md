@@ -20,15 +20,16 @@ We compare loss per trial for:
   - -0.1 to 0.1 random weight initialization.
   - He weight initialization
   - STep decay learning rate adaption
-
-### Regression
+ 
+###Tasks:
+#### Regression
 The regression task predicts age of each face image in dataset. The Implemented Network achoeve a MSE of 346 after training.
 
-### multi-label classification
+#### multi-label classification
 The classification task prdeicts the race of each image in dataset.
 
 
-### Logistic Regrresion
+#### Logistic Regrresion
 The logoostic regression task predicts the gender of eache image in dataset.
 For this purpose sigmoid activation function and logistic loss function is implemented.
 
