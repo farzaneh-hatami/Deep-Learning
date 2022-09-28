@@ -1,9 +1,9 @@
 # Impelementing Artificial Neural Networks from Scartch with python
 
 In this project Fully Connected Neural Networks is implemented from Scratch for 3 diffrent tasks:
-- ** Regression ** for age estimation
-- ** Multi-label classification **  for race prediction
-- ** Logistic Regrresion ** for gender prediction 
+- **Regression** for age estimation
+- **Multi-label classification**  for race prediction
+- **Logistic Regrresion** for gender prediction 
 
 
 In this project backpropagation is implemented from scratch and the network has the the ability of adding different layers, It also contains multiple multiple activation functions like ReLU, Softmax and different loss functions like MSE, negative log likelihood.
