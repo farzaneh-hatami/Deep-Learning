@@ -14,6 +14,12 @@ For data prepration step Normalization and Dimensionality Reduction are applied 
 
 
 ## Results for different tasks
+We compare loss per trial for:
+  - zero weight initialization
+  - Xavier weight initialization
+  - -0.1 to 0.1 random weight initialization.
+  - He weight initialization
+  - STep decay learning rate adaption
 
 ### Regression
 The regression task predicts age of each face image in dataset. The Implemented Network achoeve a MSE of 346 after training.
