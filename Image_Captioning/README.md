@@ -20,8 +20,8 @@ multiple preprocess method are used for image and text part:
 After preprocess step we embed the captions and images.
 
 ## Architecture
-The two following architecture are used in training and testing the model.
-<img src="imgs/training architecture.png" data-canonical-src="img/training architecture.png" width="400" />
+The two following architecture are used in training and testing the model. <br/>
+<img src="imgs/training architecture.png" data-canonical-src="img/training architecture.png" width="400" /><br/>
 <img src="imgs/testing architecture.png" data-canonical-src="img/testing architecture.png" width="400" />
 
 
