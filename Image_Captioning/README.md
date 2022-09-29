@@ -22,6 +22,8 @@ After preprocess step we embed the captions and images.
 ## Architecture
 The two following architecture are used in training and testing the model.
 <img src="imgs/training architecture.png" data-canonical-src="img/training architecture.png" width="400" />
+<img src="imgs/testing architecture.png" data-canonical-src="img/testing architecture.png" width="400" />
+
 
 ## Training
 we compare resualt with three different methods:
@@ -33,8 +35,8 @@ we compare resualt with three different methods:
 
 A sample of resualts:
 
-<img src="imgs/sample1.png" data-canonical-src="img/sample1.png" width="400" />
-<img src="imgs/sample2.png" data-canonical-src="img/sample2.png" width="400" />
+<img src="imgs/sample1.PNG" data-canonical-src="img/sample1.PNG" width="400" />
+<img src="imgs/sample2.PNG" data-canonical-src="img/sample2.PNG" width="400" />
 
 
 
