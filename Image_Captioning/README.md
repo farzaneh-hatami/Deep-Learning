@@ -1,0 +1,9 @@
+# Image Captioning
+
+Image captioning is an application of deep learning which describe the content of an image in words. In this project I uses Resnet architecture as backone to 
+create embedding for Images and LSTM for generating capsions.
+This project is an implementation of paper entitled "image captioning" by Vikram Mullachery et al.
+
+## Dataset
+We use flickr8K dataset for training and inference that has 5 captions for each traing image:<br />
+https://www.kaggle.com/adityajn105/flickr8k <br />
