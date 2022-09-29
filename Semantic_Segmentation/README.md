@@ -33,7 +33,7 @@ Two different method have been implemented:
 A sample of resualts:
 
 resualts without batch normalization: <br/>
-<img src="imgs/sample1.PNG" data-canonical-src="img/sample1.PNG" width="300" />
+<img src="imgs/resualts_without_bn.PNG" data-canonical-src="img/resualts_without_bn.PNG" width="300" />
 
 resualts with batch normalization: <br/>
-<img src="imgs/sample2.PNG" data-canonical-src="img/sample2.PNG" width="300" />
+<img src="imgs/resualts_with_bn.PNG" data-canonical-src="img/resualts_with_bn.PNG" width="300" />
