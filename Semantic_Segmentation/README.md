@@ -4,7 +4,7 @@ Semantic segmentation task assign a class label to each pixel in an image result
 In this project, the Segnet network have been implemented which was introduced in the paper entitled "SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation" by Vijay Badrinarayanan et al. 
 
 ## Dataset
-We use Camvid dataset for trainig and inference:
+We use Camvid dataset for trainig and inference: <br/>
 https://s3.amazonaws.com/fast-ai-imagelocal/camvid.tgz <br/>
 http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/data/LabeledApproved_full.zip <br/>
 
