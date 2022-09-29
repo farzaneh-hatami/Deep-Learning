@@ -7,3 +7,14 @@ This project is an implementation of paper entitled "image captioning" by Vikram
 ## Dataset
 We use flickr8K dataset for training and inference that has 5 captions for each traing image:<br />
 https://www.kaggle.com/adityajn105/flickr8k <br />
+
+
+## Preprocessing
+multiple preprocess method are used for image and text part:
+
+- Resizeing and Normalization of images
+- Creating Dictioanry with respect to captions of each image
+- Adding start and end tokens to the caption
+- assigning an index to words
+
+After preprocess step we embed the captions and images.
