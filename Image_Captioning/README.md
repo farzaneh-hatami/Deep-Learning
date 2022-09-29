@@ -19,13 +19,24 @@ multiple preprocess method are used for image and text part:
 
 After preprocess step we embed the captions and images.
 
-## architecture
+## Architecture
 The two following architecture are used in training and testing the model.
 <img src="imgs/training architecture.png" data-canonical-src="img/training architecture.png" width="400" />
 
+## Training
 we compare resualt with three different methods:
 - Freezing the resnet part, excpet the last layer (transfer learning).
 - Unfreezing the resent part and train it.
 - Using Bi-LSTM for generaating captions.
+
+## Resualts
+
+A sample of resualts:
+
+<img src="imgs/sample1.png" data-canonical-src="img/sample1.png" width="400" />
+<img src="imgs/sample2.png" data-canonical-src="img/sample2.png" width="400" />
+
+
+
 
 
