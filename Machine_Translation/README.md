@@ -15,7 +15,8 @@ Several preprocessing method are used:
 
 ## Architecture
 We implement Encoder part of the Transformer from scratch and use Pytorch Decoder in order to train English text to persian.<br/>
-Transformer architecture is visible in the following diagram:
+Transformer architecture is visible in the following diagram:<br/>
+<img src="imgs/architecture.PNG" data-canonical-src="img/architecture.PNG" width="400" /><br/>
 
 
 ## Training
