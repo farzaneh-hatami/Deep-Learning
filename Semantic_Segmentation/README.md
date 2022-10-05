@@ -18,7 +18,7 @@ multiple preprocess method are used
 
 ## Architecture
 
-the following architecture is Segnet:
+the following architecture is Segnet: <br/>
 <img src="imgs/architecture.png" data-canonical-src="img/architecture.png" width="400" /><br/>
 Segnet has 13 Encoder/Decoder layers.In this project we implemeted SegnetBase architecture which is similar to segent architecture unless it has 4 Encode/Decoder.
 
