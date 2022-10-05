@@ -1,4 +1,4 @@
-# Machine Translation with transformer (from Persian to English)
+# Machine Translation with transformer (from English to Persian)
 Machine Translation task, translate text from one language to another. With the advent of Transformers, Machine translations tasks have been enterd to a new area.
 This project is implemented in Pytorch.
 
