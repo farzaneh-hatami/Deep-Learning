@@ -20,7 +20,7 @@
  
 Below is the train EfficientNet with and without LCN Layer loss and accuracy plot.<br/>
 Training EfficientNet loss plot:<br/>
-<img src="imgs/loss-training.PNG" data-canonical-src="img/loss-training.PNG" width="400" />
+<img src="imgs/loss-training.PNG" data-canonical-src="img/loss-training.PNG" width="400" /><br/>
 Trainign EfficientNet accuracy plot:<br/>
 <img src="imgs/acc-training.PNG" data-canonical-src="img/acc-training.PNG" width="400" />
  
