@@ -18,6 +18,7 @@ This project is about face recognition task and we use siamese network for train
   
 
 ## Resualts
+As you can see in the table below, Triplet loss is much faster than Circle loss.
 
 | Loss function                          | Time(minutes) |
 | -------------                          | ------------  |
