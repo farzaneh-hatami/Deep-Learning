@@ -7,7 +7,7 @@
   The goal of using this layer is add some noise to dataset and make network robust to this noises.
   This Layer can be applied to DataSet becuase it has no parameter to train.
   A sample of training dataset:<br/>
-  <img />
+  <img src="imgs/sample.PNG" data-canonical-src="img/sample.PNG" width="400" />
 
  
  ## Dataset
@@ -20,18 +20,17 @@
  
 Below is the train EfficientNet with and without LCN Layer loss and accuracy plot.<br/>
 Training EfficientNet loss plot:<br/>
- <img/>
+<img src="imgs/loss-training.PNG" data-canonical-src="img/loss-training.PNG" width="400" />
 Trainign EfficientNet accuracy plot:<br/>
- <img/>
+<img src="imgs/acc-training.PNG" data-canonical-src="img/acc-training.PNG" width="400" />
  
 
  
  ## resualt
  
- | ---    | Without LCN layer | With LCN layer  |
+ |        | Without LCN layer | With LCN layer  |
  |-----   |-------------------|-----------------|
- |Loss    |                   |                 |
- |Accuracy|                   |                 |
+ |Accuracy|      0.6964       |     0.7110      |
  
 
  
