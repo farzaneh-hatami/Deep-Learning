@@ -28,3 +28,10 @@ Trainign EfficientNet accuracy plot:<br/>
  
  ## resualt
  
+ | ---    | Without LCN layer | With LCN layer  |
+ |-----   |-------------------|-----------------|
+ |Loss    |                   |                 |
+ |Accuracy|                   |                 |
+ 
+
+ 
