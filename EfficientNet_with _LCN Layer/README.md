@@ -17,10 +17,11 @@
  We compare result with two different methods:
  - EfficientNet with addition of LCN layer
  - EfficientNet without addition of LCN layer<br/>
- Below is the train EfficientNet with and without LCN Layer loss and accuracy plot.<br/>
- Training EfficientNet loss plot:<br/>
+ 
+Below is the train EfficientNet with and without LCN Layer loss and accuracy plot.<br/>
+Training EfficientNet loss plot:<br/>
  <img/>
- Trainign EfficientNet accuracy plot:<br/>
+Trainign EfficientNet accuracy plot:<br/>
  <img/>
  
 
